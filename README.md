@@ -11,3 +11,11 @@ KDD: https://medium.com/@rutuja.b.nemane/leveraging-kdd-methodology-for-effectiv
 
 Semma: https://medium.com/@rutuja.b.nemane/in-the-world-of-retail-understanding-customer-behavior-is-key-to-crafting-effective-marketing-4c19463c3218
 
+
+Google colabs:
+Crisp-DM: https://colab.research.google.com/drive/1eXDODgOOgZOkBoI_tiQV13ygtcZcjcHd?usp=sharing
+
+KDD: https://colab.research.google.com/drive/182OS5ZXwTsTTYd9uB8hhgZnQ2RmGuQ9k?usp=sharing  
+
+Semma: https://colab.research.google.com/drive/1levkV7iOEv0BQmi8a5r_6E-M8_cFTBmj?usp=sharing
+
